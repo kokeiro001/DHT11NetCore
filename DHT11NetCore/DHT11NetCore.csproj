@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Unosquare.Raspberry.IO" Version="0.17.2" />
+  </ItemGroup>
+
 </Project>
